@@ -1,2 +1,3 @@
 # bubble-sort
-Bubble Sort Algorithm
+
+Bubble sort having worst case complexity 0(n^2) is coded here! 
